@@ -1,0 +1,7 @@
+.vscode/
+**/__pycache__/
+.ruff.toml
+
+token.txt
+**/input*.txt
+**/example*.txt
