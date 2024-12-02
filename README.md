@@ -1,4 +1,5 @@
 [https://adventofcode.com/](https://adventofcode.com/)
+
 [https://reddit.com/r/adventofcode/wiki/faqs/automation](https://reddit.com/r/adventofcode/wiki/faqs/automation)
 
 # Ranks
