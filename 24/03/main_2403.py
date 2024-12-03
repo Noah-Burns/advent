@@ -21,9 +21,7 @@ def p_str(s):
 
 
 def p_2(s):
-    subs = re.findall(r"((mul\(\d+,\d+\))|do\(\)|don't\(\))", s)
-    subs = [sub[0] for sub in subs]
-    print(subs)
+    subs = re.findall(r"mul\(\d+,\d+\)|do\(\)|don't\(\)", s)
     is_enabled = True
 
     res = 0
