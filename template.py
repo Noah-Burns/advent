@@ -13,3 +13,8 @@ def parse_input(fname: str):
 
 ### Part 1
 print((parse_input("example_1_yydd.txt")))
+# print((parse_input("input_yydd.txt")))
+
+### Part 2
+# print((parse_input("example_1_yydd.txt")))
+# print((parse_input("input_yydd.txt")))
